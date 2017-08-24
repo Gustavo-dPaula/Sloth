@@ -1,6 +1,6 @@
 # Sloth
 The Neon's Line Follower Robot of 2017
-[![Watch the video](https://raw.githubusercontent.com/Gustavo-dPaula/Sloth/blob/master/Media/Sloth.png)](https://raw.githubusercontent.com/Gustavo-dPaula/Sloth/master/Media/LAP%2014.29s.mp4)
+[![Background of Sloth](https://raw.githubusercontent.com/Gustavo-dPaula/Sloth/master/Media/Sloth.png)](https://raw.githubusercontent.com/Gustavo-dPaula/Sloth/master/Media/LAP%2014.29s.mp4)
 <p align="center";> <b>The <strike>slowest</strike> fastest line follower robot on earth.</b> </p>
 <p align="center";> <b>Click in image for a video.</b> </p>
 
