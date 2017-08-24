@@ -3,6 +3,8 @@ The Neon's Line Follower Robot of 2017
 <div style="align=middle"><img src ="https://github.com/Project-Neon/Sloth/blob/master/Media/Sloth.png" /></div>
 <p align="center";> <b>The <strike>slowest</strike> fastest line follower robot on earth.</b> </p>
 
+# Video
+[![Watch the video](https://raw.githubusercontent.com/Gustavo-dPaula/Sloth/master/Media/ProjectNeon.png)](https://raw.githubusercontent.com/Gustavo-dPaula/Sloth/master/Media/LAP%2014.29s.mp4)
 # Parts of the puzzle
 * `Firmware`: Is the main firmware that controls all the functions of the robot.
 * `Software`: Is telemetry software for data acquisition from the robot.
